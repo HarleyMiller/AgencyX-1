@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* GLOBAL */
+body 
+{ 
+	font-family: garamond, Gotham, "Helvetica Neue", Arial, sans-serif; 
+	font-size: 16px; 
+	background-color: #D6D6D6;  
+}
+
+.TalkDog_logo a img
+{ 
+	max-width: 50%; 
+	margin-top: 10px;
+	margin-left: 15px;
+	padding-bottom: 15px;
+	float: left;   
+}
+
+.TalkDog_navigation
+{ 
+	text-align: right;  
+}
+
+
+#mainNav ul li
+{
+	display: inline-block;
+	text-align: right;
+	margin-left: 10px;
+	margin-right:10px;
+	padding-top: 20px;
+	background-color:#D6D6D6;	
+}
+
+#mainNav ul li a
+{
+	text-decoration: none;
+	color:#8B008B;
+	
+}
+
+#mainNav ul li a:hover
+{
+	color: #000000;
+	border-bottom: 3px solid #e1c475;
+	padding-bottom: 5px;
+}
+
+.TalkDog_copyright 
+{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.hidden
+{
+	display: none;
+}
+
+/* HOME */
+
+.TalkDog_companybio 
+{
+	float: none;
+	align-content: center;
+	padding-bottom: 15px;
+}
+
+.TalkDog_companybio h1
+{
+	font-size: 1.2em;
+	font: garamond;
+	font-weight: bold;
+}
+
+.TalkDog_mascot
+{ 
+	text-align: center;  
+}
+
+.TalkDog_software_box
+{
+	text-align: center; 
+}
+
+.TalkDog_software_box h3
+{
+	padding-top: 10px;
+}
+
+
+.TalkDog_softwarebox_front img
+{
+	text-align: center; 
+}
+
+.TalkDog_softwarebox_front h1
+{
+	font-family: garamond, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 1.8em;
+	text-align: center;
+}
+
+.TalkDog_softwarebox_back img
+{ 
+	text-align: center; 
+} 
+
+.TalkDog_softwarebox_back h1
+{ 
+	font-family: garamond, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 1.8em; 
+	text-align: center;
+} 
+
+
+.TalkDog_productbox_front img
+{
+	text-align: center; 
+}
+
+.TalkDog_productbox_front h1
+{
+	font-family: garamond, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 1.8em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.TalkDog_productbox_back img
+{
+	text-align: center; 
+}
+
+.TalkDog_productbox_back h1
+{
+	font-family: garamond, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	font-size: 1.8em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.TalkDog_testimonials
+{
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+/* TEAM */
+
+.TalkDog_team_harley
+{
+	padding-bottom: 10px;
+	text-align: center; 
+}
+
+.TalkDog_team_rob
+{
+	padding-bottom: 10px;
+	text-align: center; 
+}
+
+.TalkDog_teambio_harley p
+{
+	line-height: 40px;
+}
+
+.TalkDog_teambio_rob p
+
+{
+	line-height: 40px;
+}
+
+/* ABOUT */
+
+#animation 
+{
+	height: 100%;
+	position: relative;
+}
+
+.TalkDog_animation_one 
+{
+	max-width: 10%;
+	display: inline-block;
+	float: none;
+}
+
+.TalkDog_animation_two
+{
+	max-width: 10%;
+	display: inline-block;
+}
+
+.TalkDog_animation_three 
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_four
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_five
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_six
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_seven 
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_eight
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_nine 
+{
+	max-width: 10%;
+}
+
+.TalkDog_animation_ten
+{
+	max-width: 10%;
+}
